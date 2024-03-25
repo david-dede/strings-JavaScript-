@@ -11,8 +11,8 @@ function atFirst(str) {
 if(str.length===1){
     return str.substring(0, 1)+"@";
 }
-if(str.length===0){
-    // return "@@"
+// if(str.length===0){
+    return "@@"
 }
 
 return str.substring(0,2)
