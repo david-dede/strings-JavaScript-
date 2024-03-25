@@ -9,7 +9,7 @@
 
 function comboString(a, b) {
 
-if(a.length>b.length){
+// if(a.length>b.length){
     return b+a+b
 }
 if(b.length>a.length){
