@@ -10,6 +10,6 @@
 
 // function extraEnd(str) {
 let lasttwo= str.substring(str.length-2)
-// return lasttwo+lasttwo+lasttwo
+return lasttwo+lasttwo+lasttwo
 }
 console.log(extraEnd("Hi"));
