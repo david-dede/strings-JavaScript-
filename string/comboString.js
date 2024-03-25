@@ -13,7 +13,7 @@ if(a.length>b.length){
     return b+a+b
 }
 if(b.length>a.length){
-    // return a+b+a
+    return a+b+a
 }
 }
 console.log(comboString("aaa", "b"));
