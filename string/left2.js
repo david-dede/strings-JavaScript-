@@ -9,7 +9,7 @@
 
 function left2(str) {
 let start =str.substring(0,2)
-// let end =str.substring(2)
+let end =str.substring(2)
 return end+start
 }
 console.log(left2("Hello"));
