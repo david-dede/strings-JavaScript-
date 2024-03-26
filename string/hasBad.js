@@ -9,7 +9,7 @@
 
 function hasBad(str) {
 let first =str.substring(0,3)
-let second =str.substring(1,4)
+// let second =str.substring(1,4)
 if ((first==="bad")||(second==="bad")){
     return true
 }
