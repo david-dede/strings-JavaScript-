@@ -9,7 +9,7 @@
 
 function lastChars(a, b) {
 let start = a.charAt(0)
-let end =b.charAt(b.length-1)
+// let end =b.charAt(b.length-1)
 if(a.length===0){
     start="@"
 }
