@@ -8,8 +8,8 @@
 
 
 function firstTwo(str) {
-// 
-// let result = str.substring(0,2)
+
+let result = str.substring(0,2)
 return result
 }
 
