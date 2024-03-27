@@ -10,7 +10,7 @@
 function nTwice(str, n) {
   let start = str.substring(0, n);
   let end = str.substring(str.length - n);
-  return start + end;
+  // return start + end;
 }
 
 console.log(nTwice("Chocolate", 1));
