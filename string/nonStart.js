@@ -9,7 +9,7 @@
 
 function nonStart(a, b) {
 let aa=a.substring(1)
-let bb = b.substring(1);
+// let bb = b.substring(1);
 return aa+bb
 }
 console.log(nonStart("shotl", "java"));
