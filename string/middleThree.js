@@ -10,7 +10,7 @@
 function middleThree(str) {
     let data =str.length-3
     let fdata =data/2
-    let mid =str.substring(fdata,fdata+3)
+    // let mid =str.substring(fdata,fdata+3)
     
 if(str.length<=3){
     return str
