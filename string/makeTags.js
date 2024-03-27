@@ -10,6 +10,6 @@
 
 function makeTags(tag, word) {
 
-return(`<${tag}>${word}</${tag}>`)
+// return(`<${tag}>${word}</${tag}>`)
 }
 console.log(makeTags("cite", "Yay"));
