@@ -11,7 +11,7 @@
 function makeOutWord(out, word) {
 let firsthalf=out.substring(0,2)
 let secondhalf = out.substring(2, 4);
-// return `${firsthalf}${word}${secondhalf}`
+return `${firsthalf}${word}${secondhalf}`
 
 }
 console.log(makeOutWord("[[]]", "word"));
